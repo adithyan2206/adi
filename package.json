@@ -1,0 +1,15 @@
+{
+  "name": "adipro",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "adi.git"
+  },
+  "author": "adithyan",
+  "license": "ISC"
+}
